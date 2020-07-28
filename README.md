@@ -195,3 +195,10 @@ NUI.Network_UI(my_Network, label='My Network', group_display_count=1, modules=[
 ]).show()
 
 ```
+
+The drum beats data was collected by [altsoph!](https://github.com/altsoph) and is available from [this repository!](https://github.com/altsoph/drum_space).
+
+
+
+
+
